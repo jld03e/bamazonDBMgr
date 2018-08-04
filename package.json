@@ -1,0 +1,24 @@
+{
+  "name": "bamazondbmgr",
+  "version": "1.0.0",
+  "description": "bamazon from managers perspective",
+  "main": "ManBamazonDB.js",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jld03e/bamazonDBMgr.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jld03e/bamazonDBMgr/issues"
+  },
+  "homepage": "https://github.com/jld03e/bamazonDBMgr#readme"
+}
